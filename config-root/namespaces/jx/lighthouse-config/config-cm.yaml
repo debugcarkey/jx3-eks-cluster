@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - debugcarkey/jx3-eks-cluster
-      target_url: http://dashboard-jx.
+      target_url: http://dashboard-jx.18.134.92.246.nip.io
 kind: ConfigMap
 metadata:
   creationTimestamp: null
